@@ -85,7 +85,7 @@ createacctbtn.addEventListener("click", function () {
         const errorMessage = error.message;
         // ..
         console.log(errorMessage);
-        window.alert("Error occurred. ErrorCode ", errorCode);
+        window.alert("Error occurred: " + error.message);
       });
   }
 });
@@ -108,7 +108,7 @@ submitButton.addEventListener("click", function () {
       const errorCode = error.code;
       const errorMessage = error.message;
       console.log(errorMessage);
-      window.alert("Error occurred. ErrorCode ", errorCode);
+      window.alert("Error occurred: " + error.message);
     });
 });
 
