@@ -3,7 +3,7 @@ const firebaseConfig = {
   authDomain: "quiz-project-4ba1a.firebaseapp.com",
   databaseURL: "https://quiz-project-4ba1a-default-rtdb.firebaseio.com",
   projectId: "quiz-project-4ba1a",
-  storageBucket: "quiz-project-4ba1a.firebasestorage.app",
+  storageBucket: "quiz-project-4ba1a.appspot.com",
   messagingSenderId: "135190495736",
   appId: "1:135190495736:web:b021b23b3541427acc160d",
 };
@@ -16,7 +16,6 @@ const signupButton = document.getElementById("sign-up");
 const emailInput = document.getElementById("email");
 const passwordInput = document.getElementById("password");
 const main = document.getElementById("main");
-const createacct = document.getElementById("create-acct");
 const signupEmailIn = document.getElementById("email-signup");
 const usernameIn = document.getElementById("username-signup");
 const signupPasswordIn = document.getElementById("password-signup");
