@@ -1,7 +1,7 @@
 const firebaseConfig = {
   apiKey: "AIzaSyDX4bF3xnWV41RwzdO7op7bmOMaKBAWzfk",
   authDomain: "quiz-project-4ba1a.firebaseapp.com",
-  databaseURL: "https://quiz-project-4ba1a-default-rtdb.firebaseio.com/",
+  databaseURL: "https://quiz-project-4ba1a-default-rtdb.firebaseio.com",
   projectId: "quiz-project-4ba1a",
   storageBucket: "quiz-project-4ba1a.firebasestorage.app",
   messagingSenderId: "135190495736",
