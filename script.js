@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBiKMAtstlv7R9DD5bDJ_ju2KXy0Oz91uY",
-  authDomain: "quiz-34ac3.firebaseapp.com",
-  databaseURL: "https://quiz-34ac3-default-rtdb.firebaseio.com",
-  projectId: "quiz-34ac3",
-  storageBucket: "quiz-34ac3.appspot.com",
-  messagingSenderId: "33579432678",
-  appId: "1:33579432678:web:585465a1afc56d5bb35927",
+  apiKey: "AIzaSyDX4bF3xnWV41RwzdO7op7bmOMaKBAWzfk",
+  authDomain: "quiz-project-4ba1a.firebaseapp.com",
+  projectId: "quiz-project-4ba1a",
+  storageBucket: "quiz-project-4ba1a.firebasestorage.app",
+  messagingSenderId: "135190495736",
+  appId: "1:135190495736:web:b021b23b3541427acc160d",
+  measurementId: "G-5LP7DSL5FZ"
 };
 
 firebase.initializeApp(firebaseConfig);
